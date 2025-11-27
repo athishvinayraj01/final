@@ -13,7 +13,7 @@ body{
     transform: translateX(-50%);
     font-size: 40px;
     font-weight: 700;
-    color: rgb(223, 67, 67);        /* change as you like */
+    color:white;        /* change as you like */
     z-index: 999;
 }
 
@@ -158,4 +158,5 @@ button:hover {
     left: 50%;
     transform: translateX(-50%);
     opacity: 0.8;
+
   }
